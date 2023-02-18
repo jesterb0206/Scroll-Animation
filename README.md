@@ -15,11 +15,11 @@
 
 <br>
 
-![Scroll Animation]()
+![Scroll Animation](images/scroll-animation.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/Scroll-Animation/)
 
 <br>
 
